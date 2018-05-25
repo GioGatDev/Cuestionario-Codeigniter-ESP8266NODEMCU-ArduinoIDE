@@ -12,12 +12,10 @@
     color: #000;
     font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
-.mih3{
-    font-size: 30px;
-}
 .milabel{
     margin-bottom: 5px;
 }
+
 label.btn {
     padding: 18px 60px;
     white-space: normal;
