@@ -10,24 +10,24 @@ class Categorias extends CI_Controller {
 
 	public function preguntascat1(){
 		$this->load->view('plantilla');
-		$this->load->view('preguntas_personajes');
+		$this->load->view('categorias/preguntas_personajes');
 	}
 	public function preguntascat2(){
 		$this->load->view('plantilla');
-		$this->load->view('preguntas_curpercel');
+		$this->load->view('categorias/preguntas_curpercel');
 	}
 	public function preguntascat3(){
 		$this->load->view('plantilla');
-		$this->load->view('preguntas_inventos');
+		$this->load->view('categorias/preguntas_inventos');
 	}
 	public function preguntascat4(){
 		$this->load->view('plantilla');
-		$this->load->view('preguntas_curluz');
+		$this->load->view('categorias/preguntas_curluz');
 
 	}
 	public function preguntascat5(){
 		$this->load->view('plantilla');
-		$this->load->view('preguntas_energia');
+		$this->load->view('categorias/preguntas_energia');
 
 	}
 }

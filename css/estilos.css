@@ -7,8 +7,22 @@
 .mibody{
     background-color: rgba(51,249,253,0.6);
 }
-.btn-color{
-    background-color: #3FACFA;
+.btn-color1{
+    background-color: #3EBE46;
+}
+.btn-color2{
+    background-color: #3BA7FA;
+}
+
+.btn-color3{
+    background-color: #C09452;
+}
+.btn-color4{
+    background-color: #4E438D;
+}
+.mih3{
+    text-align: center;
+    color: #fff;
 }
 .titulo{
     font-size: 6vw;
