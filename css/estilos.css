@@ -4,8 +4,11 @@
   -webkit-border-radius: 50px;
   border-radius: 20px;
 }
-.bodycategorias{
+.mibody{
     background-color: rgba(51,249,253,0.6);
+}
+.btn-color{
+    background-color: #3FACFA;
 }
 .titulo{
     font-size: 6vw;
