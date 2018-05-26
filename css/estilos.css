@@ -1,8 +1,12 @@
-#qid {
+.qid {
   padding: 10px 15px;
   -moz-border-radius: 50px;
   -webkit-border-radius: 50px;
   border-radius: 20px;
+}
+.icono{
+    font-size: 70px;
+    color: white;
 }
 .mibody{
     background-color: rgba(51,249,253,0.6);
@@ -181,7 +185,7 @@ label .glyphicon {
 .modal-body {
     min-height: 205px
 }
-#loadbar {
+.loadbar {
     position: absolute;
     width: 62px;
     height: 77px;
@@ -223,7 +227,7 @@ label .glyphicon {
     animation-iteration-count: infinite;
     animation-direction: linear
 }
-#rotateG_01 {
+.rotateG_01 {
     left: 0;
     top: 28px;
     -moz-animation-delay: .33s;
@@ -237,7 +241,7 @@ label .glyphicon {
     animation-delay: .33s;
     transform: rotate(-90deg)
 }
-#rotateG_02 {
+.rotateG_02 {
     left: 8px;
     top: 10px;
     -moz-animation-delay: .44000000000000006s;
@@ -251,7 +255,7 @@ label .glyphicon {
     animation-delay: .44000000000000006s;
     transform: rotate(-45deg)
 }
-#rotateG_03 {
+.rotateG_03 {
     left: 26px;
     top: 3px;
     -moz-animation-delay: .55s;
@@ -265,7 +269,7 @@ label .glyphicon {
     animation-delay: .55s;
     transform: rotate(0deg)
 }
-#rotateG_04 {
+.rotateG_04 {
     right: 8px;
     top: 10px;
     -moz-animation-delay: .66s;
@@ -279,7 +283,7 @@ label .glyphicon {
     animation-delay: .66s;
     transform: rotate(45deg)
 }
-#rotateG_05 {
+.rotateG_05 {
     right: 0;
     top: 28px;
     -moz-animation-delay: .7700000000000001s;
@@ -293,7 +297,7 @@ label .glyphicon {
     animation-delay: .7700000000000001s;
     transform: rotate(90deg)
 }
-#rotateG_06 {
+.rotateG_06 {
     right: 8px;
     bottom: 7px;
     -moz-animation-delay: .8800000000000001s;
@@ -307,7 +311,7 @@ label .glyphicon {
     animation-delay: .8800000000000001s;
     transform: rotate(135deg)
 }
-#rotateG_07 {
+.rotateG_07 {
     bottom: 0;
     left: 26px;
     -moz-animation-delay: .99s;
@@ -321,7 +325,7 @@ label .glyphicon {
     animation-delay: .99s;
     transform: rotate(180deg)
 }
-#rotateG_08 {
+.rotateG_08 {
     left: 8px;
     bottom: 7px;
     -moz-animation-delay: 1.1s;

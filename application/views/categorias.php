@@ -6,19 +6,19 @@
 	<h1 align="center">Categorias</h1>
           <div class="quiz" id="quiz" data-toggle="buttons">
             <form action="<?php echo base_url(); ?>categorias/preguntascat1">
-              <label class="element-animation1 btn btn-lg btn-primary btn-block milabel"><span class="btn-label"><i class="glyphicon glyphicon-star"></i></span><input type="submit"hidden="true">Personajes</label>
+              <label class="element-animation1 btn btn-lg btn-primary btn-block milabel"><span class="btn-label"><i class="glyphicon glyphicon-flash"></i></span><input type="submit"hidden="true">Personajes</label>
             </form>
             <form action="<?php echo base_url(); ?>categorias/preguntascat2">
-              <label class="element-animation2 btn btn-lg btn-primary btn-block milabel"><span class="btn-label"><i class="glyphicon glyphicon-star"></i></span> <input type="submit" hidden="true">Curiosidades de personajes celebres</label>
+              <label class="element-animation2 btn btn-lg btn-primary btn-block milabel"><span class="btn-label"><i class="glyphicon glyphicon-flash"></i></span> <input type="submit" hidden="true">Curiosidades de personajes celebres</label>
             </form>
             <form action="<?php echo base_url(); ?>categorias/preguntascat3">
-              <label class="element-animation3 btn btn-lg btn-primary btn-block milabel"><span class="btn-label"><i class="glyphicon glyphicon-star"></i></span> <input type="submit" hidden="true">Inventos</label>
+              <label class="element-animation3 btn btn-lg btn-primary btn-block milabel"><span class="btn-label"><i class="glyphicon glyphicon-flash"></i></span> <input type="submit" hidden="true">Inventos</label>
             </form>
             <form action="<?php echo base_url(); ?>categorias/preguntascat4">
-             <label class="element-animation4 btn btn-lg btn-primary btn-block milabel"><span class="btn-label"><i class="glyphicon glyphicon-star"></i></span> <input type="submit" hidden="true">Curiosidades de la luz </label>
+             <label class="element-animation4 btn btn-lg btn-primary btn-block milabel"><span class="btn-label"><i class="glyphicon glyphicon-flash"></i></span> <input type="submit" hidden="true">Curiosidades de la luz </label>
             </form>
             <form action="<?php echo base_url(); ?>categorias/preguntascat5">
-             <label class="element-animation4 btn btn-lg btn-primary btn-block milabel"><span class="btn-label"><i class="glyphicon glyphicon-star"></i></span> <input type="submit" hidden="true">¿Cómo se crea la energía? </label>
+             <label class="element-animation4 btn btn-lg btn-primary btn-block milabel"><span class="btn-label"><i class="glyphicon glyphicon-flash"></i></span> <input type="submit" hidden="true">¿Cómo se crea la energía? </label>
             </form>
           </div>    
         </div>
