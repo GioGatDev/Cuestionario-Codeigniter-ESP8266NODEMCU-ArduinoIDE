@@ -15,10 +15,7 @@
               <label class="element-animation3 btn btn-lg btn-info btn-block milabel"><span class="btn-label"><i class="glyphicon glyphicon-flash"></i></span> <input type="submit" hidden="true">Inventos</label>
             </form>
             <form action="<?php echo base_url(); ?>categorias/preguntascat4">
-             <label class="element-animation4 btn btn-lg btn-info btn-block milabel"><span class="btn-label"><i class="glyphicon glyphicon-flash"></i></span> <input type="submit" hidden="true">Curiosidades de la luz </label>
-            </form>
-            <form action="<?php echo base_url(); ?>categorias/preguntascat5">
-             <label class="element-animation4 btn btn-lg btn-info btn-block milabel"><span class="btn-label"><i class="glyphicon glyphicon-flash"></i></span> <input type="submit" hidden="true">¿Cómo se crea la energía? </label>
+             <label class="element-animation4 btn btn-lg btn-info btn-block milabel"><span class="btn-label"><i class="glyphicon glyphicon-flash"></i></span> <input type="submit" hidden="true">Curiosidades de la luz</label>
             </form>
           </div>    
         </div>
