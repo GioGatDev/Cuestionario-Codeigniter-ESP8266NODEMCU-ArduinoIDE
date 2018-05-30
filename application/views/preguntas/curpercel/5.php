@@ -1,6 +1,6 @@
 <?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
          <div class="modal-header">
-            <h3 align="justify"><span class="label btn-color3 qid">5</span><br><br> Electrocutó a Topsy, un elefante de circo, para probar que la corriente alterna era peligrosa.<br><br><img style="width: 200px; height: 200px; margin-left: 150px;" class="img" src="<?php echo base_url(); ?>img/topsy.jpeg" ></h3>
+            <h3 align="justify"><span class="label btn-color3 qid">5</span><br><br> Electrocutó a Topsy, un elefante de circo, para probar que la corriente alterna era peligrosa.<br><br><img class="miimg" src="<?php echo base_url(); ?>img/topsy.jpeg" ></h3>
          </div>
             <div class="quiz" id="quiz" data-toggle="buttons">
             <form action="<?php echo base_url(); ?>">

@@ -1,6 +1,6 @@
 <?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
          <div class="modal-header">
-            <h3 align="justify"><span class="label btn-color3 qid">1</span><br><br>Nació durante una tormenta eléctrica</h3>
+            <h3 align="justify"><span class="label btn-color3 " id="qid">1</span><br><br>Nació durante una tormenta eléctrica</h3>
          </div>
             <div class="quiz" id="quiz" data-toggle="buttons">
             <form action="<?php echo base_url(); ?>">

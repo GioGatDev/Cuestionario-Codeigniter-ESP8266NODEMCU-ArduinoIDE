@@ -1,6 +1,6 @@
 <?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
          <div class="modal-header">
-            <h3 align="justify"><span class="label btn-color3 qid">3</span><br><br>Tenía tatuado el famoso patrón de los 5 puntos pero en el antebrazo. De hecho, el instrumento que utilizan hoy en día los tatuadores es una evolución de una pluma que inventó este personaje en 1876.<br><img style="width: 100px; height: 150px; margin-left: 200px;" class="img" src="<?php echo base_url(); ?>img/patron5puntos.png"></h3>
+            <h3 align="justify"><span class="label btn-color3 qid">3</span><br><br>Tenía tatuado el famoso patrón de los 5 puntos pero en el antebrazo. De hecho, el instrumento que utilizan hoy en día los tatuadores es una evolución de una pluma que inventó este personaje en 1876.<img class="miimg" src="<?php echo base_url(); ?>img/patron5puntos.png"></h3>
          </div>
             <div class="quiz" id="quiz" data-toggle="buttons">
             <form action="<?php echo base_url(); ?>">
