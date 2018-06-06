@@ -1,6 +1,6 @@
 <?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
          <div class="modal-header">
-            <h3 align="justify"><span class="label btn-color3 qid">4</span><br><br>El quería iluminar al planet entero, eliminando a la oscuridad y trayendo una nueva era de luz a la humanidad.</h3>
+            <h3 align="justify"><span class="label btn-color3 qid">4</span><br><br>El quería iluminar al planeta entero, eliminando a la oscuridad y trayendo una nueva era de luz a la humanidad.</h3>
          </div>
             <div class="quiz" id="quiz" data-toggle="buttons">
             <form action="http://IPESP/" method="get">
