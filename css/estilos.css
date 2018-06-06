@@ -18,6 +18,12 @@ font-size: 30px;
     display:block; 
     margin:auto;
 }
+.miimg1{
+    width: 150px; 
+    height: 150px; 
+    display:block; 
+    margin:auto;
+}
 .mibody{
   opacity: 0.8;
   margin-bottom: 50px;
