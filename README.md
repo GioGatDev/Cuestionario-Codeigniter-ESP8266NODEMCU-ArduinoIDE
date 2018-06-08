@@ -11,7 +11,7 @@ Cuestionario codeigniter integrando respuestas desde ESP8266NodeMcu con ArduinoI
  IPAddress Gateway(0,0,0,0);
  IPAddress Subnet(0,0,0,0);
 ```
-- ## Dentro de esta línea de código en los archivos de las preguntas de cambia por la **IP** que tiene asignada la tarjeta **ESP8266NODEMCU**.
+- ## Dentro de esta línea de código en los archivos de las preguntas se cambia por la **IP** que tiene asignada la tarjeta **ESP8266NODEMCU**.
 ```html
 <form action="http://IPESP/" method="get">
 ```
