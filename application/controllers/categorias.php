@@ -8,6 +8,11 @@ class Categorias extends CI_Controller {
 		$this->load->view('categorias');
 	}
 
+	public function minombre(){
+		$this->load->view('plantilla');
+		$this->load->view('preguntas/inventos/1');
+	}
+
 	public function preguntascat1(){
 		$this->load->view('plantilla');
 		$this->load->view('categorias/preguntas_personajes');
